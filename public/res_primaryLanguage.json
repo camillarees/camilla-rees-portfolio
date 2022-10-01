@@ -83,37 +83,28 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
+        "company": "Utah State University",
+        "title": "Program and Marketing Manager",
+        "years": "10.2019 - 11.2022",
+      
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "HTML5",
+          "CSS",
+          "Adobe Illustrator",
+          "Adobe InDesign",
+          "Canva"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Brigham Young University",
+        "title": "Content Developer",
+        "years": "08.2019 - 12.2019",
         "mainTech": [
-          "Angular 7/8"
+          "Adobe Illustrator"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Adobe InDesign",
+          "Canva"
         ]
       }
     ]
