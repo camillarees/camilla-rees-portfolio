@@ -7,6 +7,7 @@
     "@iconify/icons-logos": "^1.2.17",
     "@iconify/react": "^1.1.4",
     "bootstrap": "^5.2.1",
+    "cra-template-react-portfolio": "^3.0.1",
     "gh-pages": "^3.2.3",
     "jquery": "^3.6.1",
     "mini-css-extract-plugin": "^2.4.5",
