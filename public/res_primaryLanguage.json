@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Camilla Rees. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Camilla Rees. l person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
       "section_name": {
         "about": "I have a passion for social justice through nonprofit work and education and have been in these fields for several years. I decided to shift my focus to Software Development and learned I have a particular knack for front-end development and have been complimented on my eye for design by my supervisor and colleagues. I’m known to be a “Jill of all trades”, and am extremely interested in picking up iOS development. I am eager to combine these new skills with my previous experience to educate and engage communities to act for the public good through technology. Through my experience, I have witnessed an immense positive impact on societal ecosystems when we improve the ways we connect good people with the right resources and opportunities. I want to continue this mission as I step into a tech industry role.",
         "projects": "Projects",
@@ -86,7 +86,9 @@
         "company": "Utah State University",
         "title": "Program and Marketing Manager",
         "years": "10.2019 - 11.2022",
-      
+        "mainTech": [
+          "HTML5"
+        ],
         "technologies": [
           "HTML5",
           "CSS",

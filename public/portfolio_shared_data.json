@@ -1,5 +1,6 @@
 {
     "basic_info": {
+      
       "name": "Camilla Rees",
       "titles": [ "Software developer with experience in nonprofit management and marketing eager to educate and engage communities to act for the public good through technology. Aspiring “Jill of all trades” proficient in front-end development and extremely interested to absorb myself in iOS development." ],
       "social": [
@@ -14,7 +15,7 @@
           "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "profilePic.png"
     },
     "skills": {
       "icons": [
