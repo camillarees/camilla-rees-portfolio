@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Hi, I'm Camilla! The New Girl in Tech
 
-Make it your own! 
+[View my portfolio](https://camilla-rees.netlify.app/)
