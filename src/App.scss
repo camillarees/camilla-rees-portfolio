@@ -1,9 +1,10 @@
 @import '/src/scss/themes/theme-dark.scss';
 @import '/src/scss/themes/theme-light.scss';
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Questrial&family=Readex+Pro:wght@600&display=swap');
 
 html {
-	font-size: 62.5%;
+	font-family: 'Questrial', sans-serif;
+	font-size: 100%;
 	-webkit-font-smoothing: antialiased;
 	margin: 0;
 	padding: 0;
@@ -20,7 +21,7 @@ html {
 }
 
 .title-styles {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Questrial', sans-serif;
 	font-size: 250%;
 }
 
@@ -38,7 +39,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #AC7DEB;
+	background-color: white;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -47,10 +48,12 @@ header {
 	padding-bottom: 0;
 }
 
+
 header .nav {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 5px;
+	color: grey;
 }
 
 .github-corner:hover .octo-arm {
@@ -66,13 +69,13 @@ header .nav {
 
 .project-date {
 	font-size: 16px;
-	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-family: 'Questrial', sans-serif;
 	padding: 8px 15px 2px 15px;
 	position: relative;
 	z-index: -500;
-	border-top: 5px solid #696969;
+	border-top: 5px solid white;
 	border-radius: 0 0 5px 5px;
-	background-color: #696969;
+	background-color: white;
 	color: white;
 }
 
@@ -86,7 +89,7 @@ header .nav {
 
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color: #C0ABED;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
@@ -95,18 +98,18 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
-	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color: white;
+	font-family: 'Questrial', sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
 }
 
 .slider-image {
-	border: 5px solid #AC7DEB;
+	border: 5px solid #A1A9FE;
 }
 
 .slider-tab {
-	background-color: #AC7DEB;
+	background-color: #A1A9FE;
 	height: 25px;
 }
 
@@ -129,7 +132,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: black;
+	color: white;
 	text-align: center;
 }
 
@@ -156,7 +159,7 @@ header h1 {
 }
 
 .foto div:after {
-	color: #333;
+	color: white;
 	font-size: 25px;
 	content: attr(title);
 	position: relative;
@@ -175,10 +178,10 @@ header h1 {
 
 .project-title-settings {
 	margin-top: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font-family: 'Questrial', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: black;
+	color: white;
 	text-align: center;
 }
 
@@ -213,12 +216,12 @@ header h1 {
 }
 
 .font-trebuchet {
-	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-family: 'Questrial', sans-serif;
 }
 
 #preview {
 	width: 500px;
-	background-color: #8488E3;
+	background-color: #A1A9FE;
 	padding: 15px;
 	position: relative;
 	margin-bottom: 15%;
@@ -231,7 +234,7 @@ header h1 {
 }
 
 #resume {
-	background: #8488E3;
+	background: white;
 }
 
 .experience-icon {
@@ -245,10 +248,10 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #E4AFED !important;
+	background-color: #A1A9FE !important;
 	color: white;
 	font-weight: lighter !important;
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-family: 'Questrial', sans-serif;
 }
 
 .experience-badge {
@@ -256,10 +259,10 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #E4AFED !important;
+	background-color: #A1A9FE !important;
 	color: black;
 	font-weight: lighter !important;
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-family: 'Questrial', sans-serif;
 }
 
 .vertical-timeline-element-date {
@@ -294,14 +297,14 @@ header h1 {
 .bars li {
 	position: relative;
 	margin-bottom: 60px;
-	background: #ccc;
+	background: #A1A9FE;
 	height: 42px;
 	border-radius: 3px;
 }
 
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
-	color: #313131;
+	color: white;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	font-weight: normal;
@@ -389,11 +392,21 @@ header h1 {
 }
 
 #resume {
-	background-image: url("../public/images/tech.jpg");
+	background-image: url("../public/images/buildings.jpg");
+	background-size: 110%;
 }
 
+.main-badge {
+ background-color:rgb(132, 2, 2);
+ color: rgb(132, 2, 2);
+}
+
+.experience-badge {
+	background-color:rgb(132, 2, 2);
+	color: rgb(132, 2, 2);
+}
 #skills {
-	background: #1F1F1F;
+	background: #454a4f;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -442,4 +455,3 @@ footer a:focus {
 	margin-top: 10px;
 	font-size: 22px;
 }
-

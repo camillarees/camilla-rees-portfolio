@@ -1,8 +1,8 @@
 {
     "basic_info": {
       
-      "name": "Camilla Rees",
-      "titles": [ "Software developer with experience in nonprofit management and marketing eager to educate and engage communities to act for the public good through technology. Aspiring “Jill of all trades” proficient in front-end development and extremely interested to absorb myself in iOS development." ],
+      "name": "CAMILLA REES",
+      "titles": [ "Software developer with a dynamic background in nonprofit management and marketing eager to educate and engage communities to act for the public good through technology."],
       "social": [
         {
           "name": "github",
@@ -11,7 +11,7 @@
         },
         {
           "name": "linkedin",
-          "url": "https://www.linkedin.com/in/cchristiansenrees/",
+          "url": "https://www.linkedin.com/in/camilla-rees/",
           "class": "fab fa-linkedin"
         }
       ],
@@ -30,14 +30,9 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "React",
+          "class": "devicon-react-plain",
           "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
         },
         {
           "name": "JavaScript",

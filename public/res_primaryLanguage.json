@@ -11,32 +11,80 @@
     },
     "projects": [
       {
-        "title": "Final Project 301",
+        "title": "plant.space",
         "startDate": "2022",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "Backend app that supports an online botanical store and allows customers to shop and place orders, and admins to manage the plant collection and customer orders. Built with Express, Node and AWS using Git, GitHub Projects, and VS Code.",
         "images": [
-          "images/portfolio/final-project-301/p1.png"
+          "images/portfolio/plantspace/plantspaceUML.png"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
+            "class": "devicon-express-plain",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-amazon-web-services-plain",
+            "name": "AWS"
+          }
+        ]
+      },
+      {
+        "title": "City Explorer",
+        "startDate": "2022",
+        "description": "Search a city and see its map, coordinates, current forecast and associated movies. Built with React, HTML, CSS, and Express using APIs, Git, GitHub, VS Code and Trello",
+        "images": [
+          "images/portfolio/cityExplorer/city.png",
+          "images/portfolio/cityExplorer/movies-2.png"
+        ],
+        "url": "https://tarkine.github.io/Main/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-plain",
             "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "My Mixtape",
+        "startDate": "2022",
+        "description": "Full-stack app that generates music playlists based on simple input measure and allows user to add, delete and annotate the playlist from their own Spotify account. Built with MongoDB, Express, React, Node and CSS using a Spotify API, Git, GitHub Projects, and VS Code.",
+        "images": [
+          "images/portfolio/mixtape/mixtape.png",
+          "images/portfolio/mixtape/mixtape2.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       },
       {
         "title": "Tarkine",
         "startDate": "2022",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "An entertaining adventure game that offers interesting, solvable challenges to users. Built with HTML, CSS, and JavaScript using Git, GitHub, VS Code, and Figma.",
         "images": [
           "images/portfolio/tarkine/p1.png",
           "images/portfolio/tarkine/p2.png"
@@ -56,36 +104,27 @@
             "name": "HTML"
           }
         ]
-      },
-      {
-        "title": "Gallery of Horns",
-        "startDate": "2022",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/gallery-of-horns/p1.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "React"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          }
-        ]
       }
     ],
     "experience": [
       {
+        "company": "Girls in Tech, San Francisco",
+        "title": "Mentor",
+        "years": "10.2022",
+        "mainTech": [
+          "Figma"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS",
+          "Figma",
+          "Trello"
+        ]
+      },
+      {
         "company": "Utah State University",
         "title": "Program and Marketing Manager",
-        "years": "10.2019 - 11.2022",
+        "years": "10.2019 - 12.2022",
         "mainTech": [
           "HTML5"
         ],
@@ -93,6 +132,20 @@
           "HTML5",
           "CSS",
           "Adobe Illustrator",
+          "Adobe InDesign",
+          "Canva"
+        ]
+      },
+      {
+        "company": "The Love Brain",
+        "title": "Founder",
+        "years": "04.2019 - 7.2021",
+        "mainTech": [
+          "HTML5"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS",
           "Adobe InDesign",
           "Canva"
         ]
